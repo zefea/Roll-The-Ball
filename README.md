@@ -1,8 +1,6 @@
 # Roll-The-Ball
+This program is a javafx project. To run it, firstly javafx library should be downloaded.  
 
-with javafx
-
-SOON...
 
 Problem Definition 
 This game aims moving a ball from a start point to an end point if there is an appropriate path. The player must create a path using pipes given as sliding tiles. There are several levels. Default level is 5. But it can be set as different number of levels which is explained in part of implementation details. 
@@ -18,7 +16,6 @@ Here are the rules:
 - Once the ball falls and complete that level, player will be able to play the next level.
 - There is no limit for player’s moves. 
 
-If all levels are passed one by one, pane will disappear, and then player will understand that the game is finished with a message and a song.	
-
+If all levels are passed one by one, pane will disappear, and then player will understand that the game is finished with a message and a song.
 
 

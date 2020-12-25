@@ -1,11 +1,7 @@
 /*
  * 21.04.2020
- * CSE1142 - Project 1 
  * 
- * Term Project
- * 
- * Zeynep Ferah Akkurt - 150119824
- * Merve Rana Kýzýl - 150119825
+ * Zeynep Ferah Akkurt
  * 
  * 
  */

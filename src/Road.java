@@ -4,7 +4,7 @@
  * Term Project
  * 
  * Zeynep Ferah Akkurt - 150119824
- * Merve Rana Kızıl - 150119825
+ * Merve Rana KÃ½zÃ½l - 150119825
  * 
  * Road.java
  * This class is to check if there is a path from start point to end point. 

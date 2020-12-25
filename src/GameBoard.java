@@ -3,7 +3,7 @@
  * Term Project
  * 
  * Zeynep Ferah Akkurt - 150119824
- * Merve Rana Kızıl - 150119825
+ * Merve Rana KÃ½zÃ½l - 150119825
  * 
  * GameBoard.java
  * This class is for creating the game board, mouse events, animations. 
